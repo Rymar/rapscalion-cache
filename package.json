@@ -1,0 +1,26 @@
+{
+  "name": "rapscalion-cache",
+  "version": "1.0.0",
+  "description": "issue with promise caching",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rymar/rapscalion-cache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rymar/rapscalion-cache/issues"
+  },
+  "homepage": "https://github.com/Rymar/rapscalion-cache#readme",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-react": "^6.24.1",
+    "rapscallion": "^2.1.7",
+    "react": "^15.5.4"
+  }
+}
