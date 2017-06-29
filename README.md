@@ -1,3 +1,6 @@
+# Edit
+Fixed in [Rapscallion](https://github.com/FormidableLabs/rapscallion) v2.1.10
+
 ## Issue with promise caching
 Installation `npm install`
 
